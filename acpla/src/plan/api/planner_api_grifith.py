@@ -22,7 +22,8 @@ print('\n')
 
 # Extract details
 
-# 
+# Request Types
+# c = course, p = program
 request_type = 'c'
 
 # COURSEs
